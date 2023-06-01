@@ -47,8 +47,3 @@ yarn start
 ```
 5. Open your browser and visit http://localhost:3000 to see the application running.
 
-## Usage
-
-- Enter a description and amount for the expense in the form inputs and click "Add Expense" to add it to the list.
-- The total balance and individual expense amounts will be updated automatically.
-- To remove an expense, click the "x" button next to it.
